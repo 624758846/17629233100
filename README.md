@@ -27,9 +27,11 @@ If you have an active subscription with auto-renewal enabled, you can cancel it 
 
 If you're unable to cancel through the above methods, you can contact customer support:
 
-- **Email**: support@example.com
-- **Phone**: 1-800-XXX-XXXX
-- **Live Chat**: Available through the application or website
+- **Email**: Contact your service provider's support email
+- **Phone**: Contact your service provider's support phone line
+- **Live Chat**: May be available through the application or service provider's website
+
+> **Note**: Replace the above with your actual service provider's contact information.
 
 ### Important Information
 
